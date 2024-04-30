@@ -1,6 +1,7 @@
 go 1.21.1
 
 use ./go-bst
+use ./go-bubble-sort
 use ./go-doubly-linked-list
 use ./go-fibonacci
 use ./go-fizzbuzz
