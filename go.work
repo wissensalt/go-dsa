@@ -1,0 +1,9 @@
+go 1.21.1
+
+use ./go-bst
+use ./go-stack
+use ./go-queue
+use ./go-fizzbuzz
+use ./go-palindrome
+use ./go-fibonacci
+use ./go-maxminarray
