@@ -2,14 +2,14 @@
 
 Implementation of Data Structures and Algorithm in Golang
 
-- [Stack](go-stack)
-- [Queue](go-queue)
 - [Binary Search Tree](go-bst)
-- [Palindrome](go-palindrome)
-- [Singly Linked List](go-singly-linked-list)
+- [Bubble Sort](go-bubble-sort)
 - [Doubly Linked List](go-doubly-linked-list)
+- [Fibonacci](go-fibonacci)
 - [FizzBuzz](go-fizzbuzz)
 - [Find Maximum and Minimum Element in Array](go-maxminarray)
-- [Fibonacci](go-fibonacci)
 - [Palindrome](go-palindrome)
+- [Queue](go-queue)
+- [Singly Linked List](go-singly-linked-list)
+- [Stack](go-stack)
 - [Undirected Graph](go-undirected-graph)
