@@ -1,9 +1,12 @@
 go 1.21.1
 
 use ./go-bst
-use ./go-stack
-use ./go-queue
-use ./go-fizzbuzz
-use ./go-palindrome
+use ./go-doubly-linked-list
 use ./go-fibonacci
+use ./go-fizzbuzz
 use ./go-maxminarray
+use ./go-palindrome
+use ./go-queue
+use ./go-singly-linked-list
+use ./go-stack
+use ./go-undirected-graph
